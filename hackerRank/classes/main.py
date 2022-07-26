@@ -26,5 +26,7 @@ def main():
 	books.pop()
 	checker(books)
 	
+	print("anything new??")
+	
 if __name__ == "__main__":
 	main()
